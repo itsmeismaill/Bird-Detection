@@ -59,7 +59,7 @@ MCP_SERVER_SCRIPT = "/chemin/absolu/vers/mcp_server.py"  # Exemple: "/home/user/
 
 Assurez-vous d'avoir cette structure :
 ```
-votre-projet/
+Bird-Detection/
 ├── mcp_client.py              # Fichier API principal
 ├── mcp_server.py              # Serveur MCP
 ├── requirements.txt
