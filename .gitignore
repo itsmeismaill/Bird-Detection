@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# ---- FastAPI / Backend ----
+*.pid
+instance/
+.mcp_cache/
+config.json
+.env
+
+# ---- Node / Frontend ----
+ui/chatbot-bird/node_modules/
+ui/chatbot-bird/.next/
+ui/chatbot-bird/.env.local
+ui/chatbot-bird/.env.development
+ui/chatbot-bird/.env.production
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.vscode/
+.idea/

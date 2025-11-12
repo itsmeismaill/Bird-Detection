@@ -1,0 +1,25 @@
+# API Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+
+# CORS
+python-cors==1.0.0
+
+# Pydantic pour la validation
+pydantic==2.9.2
+
+# MCP (Model Context Protocol)
+mcp==1.1.2
+fastmcp==0.2.0
+
+# Groq API
+groq==0.11.0
+
+# PyTorch et Vision
+torch==2.4.1
+torchvision==0.19.1
+pillow==10.4.0
+
+# Utilities
+python-dotenv==1.0.1
