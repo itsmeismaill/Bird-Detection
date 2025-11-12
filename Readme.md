@@ -23,7 +23,7 @@ L'API permet d'identifier des oiseaux à partir d'images (upload ou chemin de fi
 ### 2. Cloner ou télécharger le projet
 ```bash
 git clone https://github.com/itsmeismaill/Bird-Detection.git
-cd bird-detection-api
+cd Bird-Detection
 ```
 
 ### 3. Installer les dépendances
