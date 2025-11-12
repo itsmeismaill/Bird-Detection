@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## ⚙️ Configuration
 
 ### 1. Configurer l'API Groq
-Ouvrez le fichier principal et modifiez :
+Ouvrez le fichier principal (mcp_client.py) et modifiez :
 ```python
 GROQ_API_KEY = "VOTRE_CLE_API_GROQ_ICI"  # Decommentez et Remplacez par votre clé cette ligne de code
 GROQ_MODEL = "qwen/qwen3-32b"  # Ou un autre modèle Groq compatible
