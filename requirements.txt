@@ -13,9 +13,9 @@ fastmcp==0.2.0
 # Groq API
 groq==0.11.0
 
-# PyTorch et Vision
-torch==2.4.1
-torchvision==0.19.1
+# PyTorch et Vision (versions récentes)
+torch==2.9.0
+torchvision==0.19.0
 pillow==10.4.0
 
 # Utilities
