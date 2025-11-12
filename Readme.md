@@ -16,7 +16,7 @@ L'API permet d'identifier des oiseaux à partir d'images (upload ou chemin de fi
 
 ### 1. Prérequis
 
-- Python 3.8+  
+- Python 3.8+ jusqu'a Python 3.12 
 - Un compte Groq avec API key (https://groq.com)  
 - Le modèle **ResNet-50** entraîné (`resnet50_cub.pth`) et le fichier `classes.txt`
 
